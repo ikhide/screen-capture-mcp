@@ -2,6 +2,12 @@
 
 A Model Context Protocol (MCP) server that provides screen capture and optical character recognition (OCR) capabilities.
 
+## 🎥 Demo Video
+
+[![MCP Screen Text Demo](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://vimeo.com/1098955586/0585e7907f?share=copy)
+
+_See MCP Screen Text in action - capturing screens and extracting text with Claude Desktop_
+
 ## Features
 
 - **Screen Capture**: Take screenshots of specific displays or applications
