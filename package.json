@@ -1,0 +1,28 @@
+{
+  "name": "mcp-screen-text",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node --esm src/index.ts",
+    "start": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.15.0",
+    "screenshot-desktop": "^1.15.1",
+    "sharp": "^0.34.2",
+    "tesseract.js": "^6.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "@types/screenshot-desktop": "^1.12.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3"
+  }
+}
